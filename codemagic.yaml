@@ -1,4 +1,6 @@
 # Codemagic configuration for Flutter Android build
+# For more details, see: https://docs.codemagic.io/yaml/building-a-flutter-app/
+
 workflows:
   android-workflow:
     name: Android APK Build
