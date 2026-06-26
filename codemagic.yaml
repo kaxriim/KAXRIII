@@ -8,7 +8,7 @@ workflows:
     instance_type: mac_mini_m1
     environment:
       groups:
-        - name: Default Group
+        - default_group
       flutter: stable
     triggering:
       events:
